@@ -5,9 +5,6 @@ Practice repository for Infrastructure as Code on Azure: a modular Bicep foundat
 ## Purpose
 Holds the code for deploying a small Azure foundation with Bicep and one extra component with Terraform, plus the notes needed to review and reproduce each deployment.
 
-## Architecture
-A module diagram will be added under `docs/` once the Bicep modules exist.
-
 ## Prerequisites
 - Azure CLI with Bicep installed
 - Terraform 1.x
